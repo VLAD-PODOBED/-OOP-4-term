@@ -1,0 +1,36 @@
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.exe
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.deps.json
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.runtimeconfig.json
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.dll
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.pdb
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.csproj.AssemblyReference.cache
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.csproj.GenerateResource.cache
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.AssemblyInfoInputs.cache
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.AssemblyInfo.cs
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.csproj.CoreCompileInputs.cache
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.dll
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\refint\OOP1TextCulculator.dll
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.pdb
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.genruntimeconfig.cache
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\ref\OOP1TextCulculator.dll
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.Properties.Resources.resources
+F:\Уник\ThirdCourse\OOP\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.CulcForm.resources
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.exe
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.deps.json
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.runtimeconfig.json
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.dll
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\bin\Debug\net6.0-windows\OOP1TextCulculator.pdb
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.csproj.AssemblyReference.cache
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.CulcForm.resources
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.Properties.Resources.resources
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.csproj.GenerateResource.cache
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.AssemblyInfoInputs.cache
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.AssemblyInfo.cs
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.csproj.CoreCompileInputs.cache
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.dll
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\refint\OOP1TextCulculator.dll
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.pdb
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\OOP1TextCulculator.genruntimeconfig.cache
+D:\ооп 4 сем\OOP1TextCulculator\OOP1TextCulculator\obj\Debug\net6.0-windows\ref\OOP1TextCulculator.dll
