@@ -1,0 +1,36 @@
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\lab2.exe
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\lab2.deps.json
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\lab2.runtimeconfig.json
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\lab2.runtimeconfig.dev.json
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\lab2.dll
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\ref\lab2.dll
+D:\study\2 курс\OОП\lab2\lab2\bin\Debug\net5.0-windows\lab2.pdb
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.AssemblyReference.cache
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.Form1.resources
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.GenerateResource.cache
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.AssemblyInfoInputs.cache
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.AssemblyInfo.cs
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.CoreCompileInputs.cache
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.dll
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\ref\lab2.dll
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.pdb
+D:\study\2 курс\OОП\lab2\lab2\obj\Debug\net5.0-windows\lab2.genruntimeconfig.cache
+D:\ооп 4 сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.exe
+D:\ооп 4 сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.deps.json
+D:\ооп 4 сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.runtimeconfig.json
+D:\ооп 4 сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.runtimeconfig.dev.json
+D:\ооп 4 сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.dll
+D:\ооп 4 сем\lab2\lab2\bin\Debug\net5.0-windows\lab2.pdb
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.AssemblyReference.cache
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.Form1.resources
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.GenerateResource.cache
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.AssemblyInfoInputs.cache
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.AssemblyInfo.cs
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.csproj.CoreCompileInputs.cache
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.dll
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\refint\lab2.dll
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.pdb
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\lab2.genruntimeconfig.cache
+D:\ооп 4 сем\lab2\lab2\obj\Debug\net5.0-windows\ref\lab2.dll
